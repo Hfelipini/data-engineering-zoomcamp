@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/65064740/error-when-trying-to-use-conda-on-vs-code-conda-the-term-conda-is-not-recog
